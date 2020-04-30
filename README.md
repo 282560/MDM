@@ -14,5 +14,4 @@ Pobierane archiwum nazywa się _pravda_extracted.tar.gz_ i zawiera katalog _prav
 - [ ] Zadanie 4
 ###### Ważne
 Aby załadować dane poprawnie należy pobrać zbiór [stąd](https://www.kaggle.com/netflix-inc/netflix-prize-data) (~2GB).<br/>
-Następnie trzeba utworzyć katalog o nazwie _RS_ w lokalizacji, w której znajduje się _RecommendationSystems-StudentVersion.ipynb_ i wyodrębnić zawartość pobranego archiwum w tym katalogu
-(8 plików, z czego 4 pliki ważą średnio 505 MB na plik i mają średnio 25 124 569 linii tekstu).
+Następnie trzeba utworzyć katalog o nazwie _RS_ w lokalizacji, w której znajduje się plik _RecommendationSystems-StudentVersion.ipynb_ i wyodrębnić zawartość pobranego archiwum w tym katalogu (8 plików, z czego 4 pliki ważą średnio 505 MB na plik i mają średnio 25 124 569 linii tekstu).

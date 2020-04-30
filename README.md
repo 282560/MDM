@@ -7,3 +7,11 @@
 ###### Ważne
 Aby _zadanie 4_ nie wyświetliło błędów należy pobrać zbiór danych [stąd](http://fizyka.umk.pl/~mich/pravda_extracted.tar.gz).<br/>
 Pobierane archiwum nazywa się _pravda_extracted.tar.gz_ i zawiera katalog _pravda_extracted_, który trzeba wyodrębnić w tej samej lokalizacji co plik _minhash_lsh_stutend_version.ipynb_. Katalog zawiera ~1200 plików.
+### Zbiór zadań nr 2 - _RecommendationSystems-StudentVersion.ipynb_.
+- [x] Zadanie 1 (_30-04-2020_)
+- [ ] Zadanie 2
+- [ ] Zadanie 3
+- [ ] Zadanie 4
+###### Ważne
+Aby załadować dane poprawnie należy pobrać zbiór [stąd](https://www.kaggle.com/netflix-inc/netflix-prize-data) (~2GB).<br/>
+Następnie trzeba utworzyć katalog o nazwie _RS_ w lokalizacji, w której znajduje się notatnik i wypakować zawartość pobranego archiwum w tym katalogu (8 plików, z czego 4 pliki ważą srednio ~505MB na plik i mają średnio 25 124 569 linii tekstu).

@@ -17,7 +17,7 @@
 ### Zbiór zadań nr 2 - _RecommendationSystems-StudentVersion.ipynb_.
 
 - [x] Zadanie 1 (_30-04-2020_)
-- [x] Zadanie 2
+- [x] Zadanie 2 (_12-05-2020_)
 - [ ] Zadanie 3
 - [ ] Zadanie 4
 

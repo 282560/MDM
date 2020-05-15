@@ -18,7 +18,7 @@
 
 - [x] Zadanie 1 (_30-04-2020_)
 - [x] Zadanie 2 (_12-05-2020_)
-- [ ] Zadanie 3
+- [x] Zadanie 3 (_15-05-2020_)
 - [ ] Zadanie 4
 
 ###### Ważne

@@ -27,3 +27,11 @@
 	Aby załadować dane poprawnie należy pobrać zbiór <a href="https://www.kaggle.com/netflix-inc/netflix-prize-data">stąd</a> (~2GB).<br/>
 	Następnie trzeba utworzyć katalog o nazwie <i>RS</i> w lokalizacji, w której znajduje się plik <i>RecommendationSystems-StudentVersion.ipynb</i> i wyodrębnić zawartość pobranego archiwum w tym katalogu (8 plików, z czego 4 pliki ważą średnio 505 MB na plik i mają średnio 25 124 569 linii tekstu).
 </p>
+
+### Zadanie nr 3 - Minib Batch K-means
+
+- [ ] Podpunkt 1
+- [ ] Podpunkt 2
+- [ ] Podpunkt 3
+- [ ] Podpunkt 4
+- [ ] Podpunkt 5

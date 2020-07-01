@@ -30,7 +30,7 @@
 
 ### Zadanie nr 3 - Minib Batch K-means
 
-- [ ] Podpunkt 1
+- [x] Podpunkt 1
 - [ ] Podpunkt 2
 - [ ] Podpunkt 3
 - [ ] Podpunkt 4

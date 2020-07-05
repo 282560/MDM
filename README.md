@@ -32,6 +32,6 @@
 
 - [x] Podpunkt 1 (_01-07-2020_)
 - [x] Podpunkt 2 (_03-07-2020_)
-- [ ] Podpunkt 3
-- [ ] Podpunkt 4
-- [ ] Podpunkt 5
+- [x] Podpunkt 3 (_05-07-2020_)
+- [x] Podpunkt 4 (_05-07-2020_)
+- [x] Podpunkt 5 (_05-07-2020_)

@@ -28,7 +28,7 @@
 	Następnie trzeba utworzyć katalog o nazwie <i>RS</i> w lokalizacji, w której znajduje się plik <i>RecommendationSystems-StudentVersion.ipynb</i> i wyodrębnić zawartość pobranego archiwum w tym katalogu (8 plików, z czego 4 pliki ważą średnio 505 MB na plik i mają średnio 25 124 569 linii tekstu).
 </p>
 
-### Zadanie nr 3 - _Mini-Batch K-Means_
+### Zadanie nr 3 - _Mini-Batch_K-Means.ipynb_.
 
 - [x] Podpunkt 1 (_01-07-2020_)
 - [x] Podpunkt 2 (_03-07-2020_)
